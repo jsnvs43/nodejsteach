@@ -1,3 +1,5 @@
 var a = 'Hello WorPPld!';
 
-console.log(a);
+
+console.log();
+console.log();
