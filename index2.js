@@ -1,8 +1,3 @@
-var a = 'Hello World!';
+var a = 'Hello WorPPld!';
 
 console.log(a);
-console.clear();
-console.clear();
-<div>sdfg
-    ;lkjlkjj
-</div>
